@@ -8,6 +8,7 @@ const movies = [
     year: 1994,
     numberInStock: 2,
     dailyRentalRate: 9.3,
+    liked: false
   },
   {
     _id: "5b21ca3eeb7f6fbccd471819",
